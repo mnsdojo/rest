@@ -1,9 +1,7 @@
-import React from "react";
+import RestClient from "@/components/RestClient";
 
 function Page() {
-  return <div>
-    
-  </div>;
+  return <RestClient />;
 }
 
 export default Page;
